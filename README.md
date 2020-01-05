@@ -1,9 +1,7 @@
 # Snake Arcade
 
-Snake Arcade is a 2D
-[Snake game](https://en.wikipedia.org/wiki/Snake_(video_game_genre))
-written in [Python](https://www.python.org/) using
-[The Python Arcade library](https://github.com/pvcraven/arcade).
+Snake Arcade is a 2D [Snake game](https://en.wikipedia.org/wiki/Snake_(video_game_genre)) written in
+[Python](https://www.python.org/) using [The Python Arcade library](https://github.com/pvcraven/arcade).
 
 ![Snake Arcade Title](art/readme/snake_arcade_title_readme.png)
 
@@ -64,8 +62,9 @@ border walls and the snake's own body.
 
 Snake Arcade is under occasional development. I've shifted focus to front-end
 web work but chip away at this when possible, to improve my Python skills. If
-you would like to contribute to Snake Arcade, please see the "CONTRIBUTING" and
-"CODE_OF_CONDUCT" documents.
+you would like to get involved, please see
+[Contributing to Snake Arcade](https://github.com/nigel-maher/snake-arcade/blob/master/CONTRIBUTING.md) and the
+[Contributor Covenant Code of Conduct](https://github.com/nigel-maher/snake-arcade/blob/master/CODE_OF_CONDUCT.md#contributor-covenant-code-of-conduct).
 
 ## Credits
 
