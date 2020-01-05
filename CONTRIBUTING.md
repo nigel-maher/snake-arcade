@@ -2,7 +2,8 @@
 
 Thanks for your interest in contributing to Snake Arcade.
 
-Please read the "CODE_OF_CONDUCT" document before getting started.
+Please read the [Contributor Covenant Code of Conduct](https://github.com/nigel-maher/snake-arcade/blob/master/CODE_OF_CONDUCT.md#contributor-covenant-code-of-conduct)
+before getting started.
 
 ## Code Style
 
