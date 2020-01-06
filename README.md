@@ -7,11 +7,13 @@ Snake Arcade is a 2D [Snake game](https://en.wikipedia.org/wiki/Snake_(video_gam
 
 ## Why another Snake game?
 
-Coding a snake game felt like a rite of passage and, being a retro gamer at
-heart, I decided to made this one of my "learn programming" projects.
+Coding a snake game seemed like a rite of passage and a great project to help me
+learn programming.
 
-I also wanted to make an easily extensible snake game available for the
-excellent Python Arcade Library. Enjoy!
+I also wanted to make an easily extensible snake game available for the Python
+Arcade Library.
+
+Enjoy!
 
 ## Features
 
