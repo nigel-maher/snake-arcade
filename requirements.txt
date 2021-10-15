@@ -2,7 +2,7 @@ arcade==2.1.7
 attrs==19.3.0
 future==0.18.2
 numpy==1.17.4
-Pillow==6.2.1
+Pillow==8.3.2
 pyglet==1.4.8
 pyglet-ffmpeg2==0.1.15
 pytiled-parser==0.9.0
